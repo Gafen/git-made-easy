@@ -1,2 +1,4 @@
 1. Git Vasics
-more Advance
+2. more advaced topics
+3. other info
+4. bla bla
